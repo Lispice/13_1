@@ -2,7 +2,7 @@ package com.example.lispiceagossou.a13_1;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//test2
+//test
 public class MainActivity extends AppCompatActivity {
 
     @Override
